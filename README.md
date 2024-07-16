@@ -5,4 +5,4 @@
 
 后面会陆续更新相关内容
 
-超棒的大模型训练营（https://github.com/InternLM/Tutorial）
+[超棒的大模型训练营](https://github.com/InternLM/Tutorial)
